@@ -1,0 +1,19 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="60" y="53" width="140" height="114" rx="4" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="61" y="110" width="138" height="28" fill="var(--color-primary)"/>
+<rect x="93" y="121" width="54" height="6" fill="var(--color-bg)"/>
+<rect x="93" y="149" width="75" height="6" fill="var(--color-contrast-medium)"/>
+<rect x="93" y="93" width="43" height="6" fill="var(--color-contrast-medium)"/>
+<rect x="93" y="65" width="75" height="6" fill="var(--color-contrast-medium)"/>
+<path d="M197.8 155L188 127L216 136.8L203.4 142.4L197.8 155Z" fill="var(--color-contrast-high)"/>
+<line x1="200.121" y1="138.879" x2="215.121" y2="153.879" stroke="var(--color-contrast-high)" stroke-width="6"/>
+<rect x="60" y="14" width="140" height="32" rx="4" fill="var(--color-contrast-low)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="93" y="27" width="44" height="6" fill="var(--color-contrast-high)"/>
+<path d="M169 26L177.5 34.5L186 26" stroke="var(--color-contrast-high)" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 125L179 129L188 120" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="76" cy="30" r="9" fill="var(--color-contrast-high)"/>
+<circle cx="76" cy="68" r="9" fill="var(--color-contrast-low)"/>
+<circle cx="76" cy="96" r="9" fill="var(--color-contrast-low)"/>
+<circle cx="76" cy="124" r="9" fill="var(--color-bg)"/>
+<circle cx="76" cy="152" r="9" fill="var(--color-contrast-low)"/>
+</svg>
